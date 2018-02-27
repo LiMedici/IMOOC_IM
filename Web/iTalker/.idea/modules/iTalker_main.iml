@@ -7,7 +7,7 @@
           <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../src/main/webapp/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
-          <root url="file://F:\develop\IMOOC_IM\Web\iTalker\src\main\webapp" relative="/" />
+          <root url="file://E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\Web\iTalker\src\main\webapp" relative="/" />
         </webroots>
       </configuration>
     </facet>

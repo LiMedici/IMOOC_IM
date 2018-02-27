@@ -3,11 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ITalker.iml" filepath="$PROJECT_DIR$/ITalker.iml" />
+      <module fileurl="file://E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\ITalker.iml" filepath="E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\ITalker.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\app\app.iml" filepath="E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\common\common.iml" filepath="E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\common\common.iml" />
       <module fileurl="file://$PROJECT_DIR$/face-res/face-res.iml" filepath="$PROJECT_DIR$/face-res/face-res.iml" />
+      <module fileurl="file://E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\face-res\face-res.iml" filepath="E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\face-res\face-res.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
+      <module fileurl="file://E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\factory\factory.iml" filepath="E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\factory\factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/lang/lang.iml" filepath="$PROJECT_DIR$/lang/lang.iml" />
+      <module fileurl="file://E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\lang\lang.iml" filepath="E:\IDEA_WORKSPANCE\IMOOC_IM_NEW\IMOOC_IM\App\ITalker\lang\lang.iml" />
     </modules>
   </component>
 </project>
